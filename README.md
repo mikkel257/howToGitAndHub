@@ -36,3 +36,6 @@ To link your local repository with Github you will have to do the following
   1. Click Finish.
 6. Click 'Save and push'.
 7. Your local git is now linked with github.
+
+Skriv noget om at lave nye branches og hvordan der opdateres.
+Skriv også noget om hvordan man henter et github projekt, således at det bliver lokalt.
