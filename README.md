@@ -74,11 +74,19 @@
 8. Write a commit messages.
 9. Click 'Commit'.
 
+**To merge a branch with another you will have to do the following**
+
+1. Open Eclipse.
+2. Go to the 'Git repositories' window.
+3. Select the branch (fx master) you want to be updated from another (fx myBranch).
+4. Right-click the other branch (myBranch)
+5. Select Merge.
+
 **To update the Github repository you will have to do the following**
 
 1. Open Eclipse.
-2. Go to the 'Git repostories' window.
+2. Go to the 'Git repositories' window.
 3. Select the project you want to be updated on Github.
-4. Right-click the project and select 'Pull'.
+4. Right-click the project and select 'Pull'. If you failed click 'Fetch' instead of 'Pull' you can correct your mistake by going to remote tracking and mergeing your master with the origin/master
 5. Right-click again and select 'Push to Upstream'.
 6. You have now updated the project on Github.
