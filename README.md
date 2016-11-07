@@ -1,5 +1,5 @@
 ## How to create a local respository with git in Eclipse and afterwards link it to github.
-To create a local respository with git in Eclipse you will have to do the following
+**To create a local respository with git in Eclipse you will have to do the following**
 
 1. Create a java project.
 2. Right click on the java project in package/project explorer.
@@ -17,7 +17,7 @@ To create a local respository with git in Eclipse you will have to do the follow
   5. Click commit.
 6. You now have a local git repository.
 
-To link your local repository with Github you will have to do the following
+**To link your local repository with Github you will have to do the following**
 
 1. Go to Github.com
   1. Create an user and login
