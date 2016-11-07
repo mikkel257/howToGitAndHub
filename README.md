@@ -43,6 +43,6 @@
 3. Click on the green 'Clone or download' button.
 4. Copy the link
 5. Open Eclipse
-  5.1
+  5.1.
 Skriv noget om at lave nye branches og hvordan der opdateres.
 Skriv også noget om hvordan man henter et github projekt, således at det bliver lokalt.
