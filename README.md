@@ -20,12 +20,11 @@
 **To link your local repository with Github you will have to do the following**
 
 1. Go to Github.com
-  1. Create an user and login
-  2. Click on the + in the upper right corner and select 'New repository'.
-  3. Choose a name for your repository. fx test.
-  4. Choose a description for your repository - Optional.
-  5. Select a privacy setting (public or privat).
-  6. Click 'Create repository'.
+  1. Click on the + in the upper right corner and select 'New repository'.
+  2. Choose a name for your repository. fx test.
+  3. Choose a description for your repository - Optional.
+  4. Select a privacy setting (public or privat).
+  5. Click 'Create repository'.
 2. Copy the link which end with .git.
 3. Open Eclipse and go to the window Git repositories.
 4. Open your local git repository.
@@ -37,5 +36,13 @@
 6. Click 'Save and push'.
 7. Your local git is now linked with github.
 
+**To import a Github repository into Eclipse you will have to do the following**
+
+1. Go to Github.com
+2. Find the project that you want to import
+3. Click on the green 'Clone or download' button.
+4. Copy the link
+5. Open Eclipse
+  5.1
 Skriv noget om at lave nye branches og hvordan der opdateres.
 Skriv også noget om hvordan man henter et github projekt, således at det bliver lokalt.
