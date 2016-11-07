@@ -75,4 +75,10 @@
 9. Click 'Commit'.
 
 **To update the Github repository you will have to do the following**
-Skriv noget om at lave nye branches og hvordan der opdateres.
+
+1. Open Eclipse.
+2. Go to the 'Git repostories' window.
+3. Select the project you want to be updated on Github.
+4. Right-click the project and select 'Pull'.
+5. Right-click again and select 'Push to Upstream'.
+6. You have now updated the project on Github.
