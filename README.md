@@ -51,6 +51,16 @@
 11. Select the branches that you want to import. and click 'Next'.
 12. Click 'Next', 'Next' and 'Finish'.
   
-  
+**To create a new branch in the local repository you will have to do the following**
+
+1. Open Eclipse
+2. Go to the 'Git repositories' window.
+3. Open your project -> branches -> local.
+4. Select the branch that you want to create a new branch from. Fx the master branch.
+5. Right click the selected branch.
+6. Click 'Create branch'. 
+7. Enter a branch name.
+8. Click 'Finish'.
+
+
 Skriv noget om at lave nye branches og hvordan der opdateres.
-Skriv også noget om hvordan man henter et github projekt, således at det bliver lokalt.
