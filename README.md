@@ -62,5 +62,17 @@
 7. Enter a branch name.
 8. Click 'Finish'.
 
+**To update a local branch you will have to do the following**
 
+1. Open Eclipse
+2. Go to the 'Git repositories' window.
+3. Select the branch you want to update.
+4. Update it.
+5. Go to the 'Git staging' window.
+6. Select all the files in the 'unstaged changes'.
+7. Move them to 'Staged changes'.
+8. Write a commit messages.
+9. Click 'Commit'.
+
+**To update the Github repository you will have to do the following**
 Skriv noget om at lave nye branches og hvordan der opdateres.
