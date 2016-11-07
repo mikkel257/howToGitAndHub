@@ -38,11 +38,19 @@
 
 **To import a Github repository into Eclipse you will have to do the following**
 
-1. Go to Github.com
-2. Find the project that you want to import
+1. Go to Github.com.
+2. Find the project that you want to import.
 3. Click on the green 'Clone or download' button.
-4. Copy the link
-5. Open Eclipse
-  1. 
+4. Copy the link.
+5. Open Eclipse.
+6. Go to the project/package explorer window.
+7. Right-click and select 'Import'.
+8. Open the 'Git' folder and select 'Projects from Git'.
+9. Click 'Next' and select 'Clone URL'.
+10. Enter the required information 'Host', 'Repository path', 'user' and 'password' and click 'Next'.
+11. Select the branches that you want to import. and click 'Next'.
+12. Click 'Next', 'Next' and 'Finish'.
+  
+  
 Skriv noget om at lave nye branches og hvordan der opdateres.
 Skriv også noget om hvordan man henter et github projekt, således at det bliver lokalt.
