@@ -1,6 +1,6 @@
 # How to create a local respository with git in Eclipse and afterwards link it to github.
 
-## Content
+### Content List
 * [Creating a local Repository](#to-create-a-local-respository-with-git-in-eclipse-you-will-have-to-do-the-following)
 * [Linking an existing Repository to Github](#to-link-your-local-repository-with-github-you-will-have-to-do-the-following)* 
 * [Import a gitHub project to eclipse](#to-import-a-github-repository-into-eclipse-you-will-have-to-do-the-following)'
