@@ -1,6 +1,9 @@
-## How to create a local respository with git in Eclipse and afterwards link it to github.
+# How to create a local respository with git in Eclipse and afterwards link it to github.
 
-
+## Content
+[To create a local respository with git in Eclipse you will have to do the following](Creating a local Repository)
+[Example2](#example2)
+[Third Example](#third-example)
 
 #### To create a local respository with git in Eclipse you will have to do the following
 
@@ -20,7 +23,7 @@
 14. Click commit.
 15. You now have a local git repository.
 
-**To link your local repository with Github you will have to do the following**
+#### To link your local repository with Github you will have to do the following
 
 1. Go to Github.com
 2. Click on the + in the upper right corner and select 'New repository'.
@@ -39,7 +42,7 @@
 15. Click 'Save and push'.
 16. Your local git is now linked with github.
 
-**To import a Github repository into Eclipse you will have to do the following**
+#### To import a Github repository into Eclipse you will have to do the following
 
 1. Go to Github.com.
 2. Find the project that you want to import.
@@ -54,7 +57,7 @@
 11. Select the branches that you want to import. and click 'Next'.
 12. Click 'Next', 'Next' and 'Finish'.
   
-**To create a new branch in the local repository you will have to do the following**
+#### To create a new branch in the local repository you will have to do the following
 
 1. Open Eclipse
 2. Go to the 'Git repositories' window.
@@ -65,7 +68,7 @@
 7. Enter a branch name.
 8. Click 'Finish'.
 
-**To update a local branch you will have to do the following**
+#### To update a local branch you will have to do the following
 
 1. Open Eclipse
 2. Go to the 'Git repositories' window.
@@ -77,7 +80,7 @@
 8. Write a commit messages.
 9. Click 'Commit'.
 
-**To merge a branch with another you will have to do the following**
+#### To merge a branch with another you will have to do the following
 
 1. Open Eclipse.
 2. Go to the 'Git repositories' window.
@@ -85,7 +88,7 @@
 4. Right-click the other branch (myBranch)
 5. Select Merge.
 
-**To update the Github repository you will have to do the following**
+#### To update the Github repository you will have to do the following
 
 1. Open Eclipse.
 2. Go to the 'Git repositories' window.
