@@ -4,10 +4,10 @@
 1. Create a java project.
 2. Right click on the java project in package/project explorer.
 3. Choose 'Team' and 'Share project'.
-4. An new window opens.
+4. A new window opens.
 5. Click create next to the repository option.
 6. Now choose a name for the git repository. fx /Users/Mikkel/git/test.
-7. Click Finish.
+7. Click finish.
 8. Click finish.
 9. Now click on your java project in package/project explorer once.
 10. Afterwards go to the git-staging window.
@@ -23,7 +23,7 @@
 2. Click on the + in the upper right corner and select 'New repository'.
 3. Choose a name for your repository. fx test.
 4. Choose a description for your repository - Optional.
-5. Select a privacy setting (public or privat).
+5. Select a privacy setting (public or private).
 6. Click 'Create repository'.
 7. Copy the link which end with .git.
 8. Open Eclipse and go to the window Git repositories.
@@ -47,6 +47,7 @@
 7. Right-click and select 'Import'.
 8. Open the 'Git' folder and select 'Projects from Git'.
 9. Click 'Next' and select 'Clone URL'.
+  1. Alternatively right click in the git Repositories window, then click 'Paste Repository Path or URL'.
 10. Enter the required information 'Host', 'Repository path', 'user' and 'password' and click 'Next'.
 11. Select the branches that you want to import. and click 'Next'.
 12. Click 'Next', 'Next' and 'Finish'.
@@ -56,7 +57,7 @@
 1. Open Eclipse
 2. Go to the 'Git repositories' window.
 3. Open your project -> branches -> local.
-4. Select the branch that you want to create a new branch from. Fx the master branch.
+4. Select the branch that you want to create a new branch from. Fx. the master branch.
 5. Right click the selected branch.
 6. Click 'Create branch'. 
 7. Enter a branch name.
@@ -73,6 +74,7 @@
 7. Move them to 'Staged changes'.
 8. Write a commit messages.
 9. Click 'Commit'.
+  * You can also choose to click 'Commit and Push...' and it will update the repository on github immediately.
 
 **To merge a branch with another you will have to do the following**
 
