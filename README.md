@@ -2,7 +2,7 @@
 
 ## Content
 [Example2](#To create a local respository with git in Eclipse you will have to do the following)
-[Example2](#example2)
+[Example2](#To link your local repository with Github you will have to do the following)
 [Third Example](#third-example)
 
 #### To create a local respository with git in Eclipse you will have to do the following
